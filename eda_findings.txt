@@ -1,0 +1,7 @@
+Dataset contains student demographic and academic information with 145 rows and 33 columns.
+No missing values were found in the dataset.
+Several numerical columns are encoded categorical variables, so descriptive statistics were mainly used for range validation.
+CGPA distributions show slight variation with some extreme values.
+Outliers were detected using the IQR method on CGPA but were retained as they represent valid academic performance.
+Correlation analysis shows a strong relationship between last semester CGPA and expected graduation CGPA.
+Correlation does not imply causation.
